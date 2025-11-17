@@ -1,0 +1,12 @@
+*.fastq
+*.fastq.gz
+*.sam
+*.bam
+*.bai
+*.vcf
+*.vcf.gz
+*.vcf.gz.tbi
+*.zip
+*.html
+*.json
+SRR1397*/
