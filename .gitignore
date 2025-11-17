@@ -10,3 +10,4 @@
 *.html
 *.json
 *.txt      # if metrics files are large
+.DS_Store
